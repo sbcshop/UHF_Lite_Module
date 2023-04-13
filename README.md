@@ -5,6 +5,7 @@ The UHF Lite Module is capable of reading data at a distance of 100 cm and beyon
 The system's performance is so robust that it can function even when the tag is positioned in a region with high levels of electromagnetic interference (EMI) emitted by motors, robotics, assembly lines, engines, and so on.
 Then the UHF Lite Module solves the above-mentioned challenges and has many additional characteristics that make it appropriate for your needs.
 
+<img src = "https://github.com/sbcshop/UHF_Lite_Module/blob/main/images/UHFLiteBanner.jpg" />
 
 ## How to Configure UHF Lite from Application
 Things you will need:
