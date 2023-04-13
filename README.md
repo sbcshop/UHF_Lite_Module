@@ -5,6 +5,7 @@ The UHF Lite Module is capable of reading data at a distance of 100 cm and beyon
 The system's performance is so robust that it can function even when the tag is positioned in a region with high levels of electromagnetic interference (EMI) emitted by motors, robotics, assembly lines, engines, and so on.
 Then the UHF Lite Module solves the above-mentioned challenges and has many additional characteristics that make it appropriate for your needs.
 
+
 ## How to Configure UHF Lite from Application
 Things you will need:
 
@@ -35,12 +36,6 @@ Make sure to change the jumper wire as per above image
 ## UHF Lite Expansion Command Manual
 [Command Manual](https://github.com/sbcshop/UHF_Lite_Module/blob/main/UHF%20Lite%20Manual.pdf)
 
-## Documentation
-
-* [UHF Lite Expansion Hardware](https://github.com/sbcshop/UHF_Lite_HAT_Hardware)
-* [Getting Started with Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico)
-* [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
-* [Hardware Design](https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Hardware/tree/main/Design%20Data) 
 
 ## Related Products
 
@@ -59,10 +54,7 @@ Make sure to change the jumper wire as per above image
 
  ![UHF HAT For Rpi](https://cdn.shopify.com/s/files/1/1217/2104/products/UHFHATForRaspberryPi.png?v=1648192425&width=400)
  
-## Product License
-
-This is ***open source*** product. Kindly check LICENSE.md file for more information.
-
+---------------------------------------------------------------------------------------------------------------------------------------
 Please contact support@sb-components.co.uk for technical support.
 <p align="center">
   <img width="360" height="100" src="https://cdn.shopify.com/s/files/1/1217/2104/files/Logo_sb_component_3.png?v=1666086771&width=300">
