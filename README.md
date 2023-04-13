@@ -7,9 +7,10 @@ Then the UHF Lite Module solves the above-mentioned challenges and has many addi
 
 ## How to Configure UHF Lite from Application
 Things you will need:
+
 Hardware->
 1. UHF Lite Module [Buy](https://shop.sb-components.co.uk/collections/latest-collections/products/uhf-lite-module?variant=40621562232915)
-2. UHF Expansion HAT [Buy]() Or Use any USB to TTL
+2. UHF Expansion HAT [Buy](https://shop.sb-components.co.uk/products/uhf-rfid-for-pico) Or Use any USB to TTL
 
 Software->
 1. UHF RFID reader App - [Download](https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/uhf%20lite.rar)
