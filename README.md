@@ -1,4 +1,4 @@
-# [UHF Lite Module](https://shop.sb-components.co.uk/collections/latest-collections/products/uhf-lite-module?variant=40621562232915)
+# [UHF Lite Module]
 The UHF RFID Lite Module is a highly efficient and reliable RFID technology that is designed to help businesses streamline their inventory management, asset tracking, and supply chain management processes. With its impressive capabilities and reliable performance, this module is the perfect solution for businesses looking to improve their operational efficiency.
 When building an RFID-based product or application, it can be difficult to select the appropriate frequency and plan for your needs.
 The UHF Lite Module is capable of reading data at a distance of 100 cm and beyond. It can save and read more than 20 tags at the same time. It provides the RSSI signal strength of each tag scanned, which is extremely valuable for determining the exact location of objects and enabling extremely quick data transfer.
