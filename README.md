@@ -7,6 +7,24 @@ Then the UHF Lite Module solves the above-mentioned challenges and has many addi
 
 <img src = "https://github.com/sbcshop/UHF_Lite_Module/blob/main/images/UHFLiteBanner.jpg" />
 
+Features :
+- UHF Module: Frequency Range:
+     - EU/UK: 865.1-867.9 MHz
+     - US: 902.25-927.75 MHz
+- UHF Module Type: Read/Write.
+- Protocols Supported: EPCglobal UHF Class 1 Gen 2 / ISO 18000-6C
+- Onboard Antenna
+- Reading Distance: 1-1.5 meters depending on tags
+- Can identify over 50 tags simultaneously
+- Communication interface: TTL UART Interface for UHF
+- Communication baud rate: 115200 bps（default and recommend) - 38400bps
+- Operation current: 180mA @ 3.5V (26 dBm Output，25°C), 110mA @ 3.5V (18 dBm Output，25°C)
+- Working humidity < 95% (+ 25 °C)
+- Heat-dissipating method Air cooling(no need out install cooling fin）
+- Tags storage capacity: 200pcs tags @ 96 bit EPC
+- Output power: 18-26 dBm
+- Output power accuracy: +/- 1dB
+- Tags RSSI: support
 ## How to Configure UHF Lite from Application
 Things you will need:
 
